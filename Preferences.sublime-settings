@@ -1,11 +1,12 @@
 {
 	"color_scheme": "Packages/Theme - Lyte/Lyte-Dark/Lyte-Dark.tmTheme",
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"overlay_scroll_bars": "enabled",
-	"theme": "Lyte-Dark.sublime-theme",
-	 "tab_size": 4
+	"tab_size": 4,
+	"theme": "Lyte-Dark.sublime-theme"
 }
