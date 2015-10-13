@@ -1,6 +1,42 @@
 {
 	"color_scheme": "Packages/Theme - Lyte/Lyte-Dark/Lyte-Dark.tmTheme",
-	"font_size": 11,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		".classpath",
+		".project"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".idea",
+		".settings",
+		"bin",
+		"target"
+	],
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -8,5 +44,7 @@
 	],
 	"overlay_scroll_bars": "enabled",
 	"tab_size": 4,
-	"theme": "Lyte-Dark.sublime-theme"
+	"theme": "Lyte-Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true
 }
