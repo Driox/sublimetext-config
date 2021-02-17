@@ -23,7 +23,8 @@
 		"*.db",
 		"*.sublime-workspace",
 		".classpath",
-		".project"
+		".project",
+		".cache"
 	],
 	"folder_exclude_patterns":
 	[
@@ -34,7 +35,8 @@
 		".idea",
 		".settings",
 		"bin",
-		"target"
+		"target",
+		"node_modules"
 	],
 	"font_size": 12,
 	"highlight_line": true,

@@ -1,9 +1,16 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
+		"1Self",
+		"A File Icon",
+		"ayu",
+		"Ensime",
+		"Material Theme",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
